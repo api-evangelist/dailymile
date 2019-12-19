@@ -1,0 +1,70 @@
+{
+    "name": "dailymile",
+    "description": "Share your training with friends and stay motivated. Find training partners, local events, routes, and groups. Social training for runners, triathletes, and cyclists.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/571-dailymile.jpg",
+    "tags": [
+        "api provider",
+        "excercise",
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dailymile\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "dailymile",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/571-dailymile.jpg",
+            "humanURL": "http:\/\/www.dailymile.com\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dailymile-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.dailymile.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/dailymile"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dailymile"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/dailymile"
+        },
+        {
+            "type": "Email",
+            "url": "raphael@dailymile.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@dailymile.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/dailymile"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dailymile"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.dailymile.com\/api"
+        }
+    ]
+}
